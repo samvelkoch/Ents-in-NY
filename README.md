@@ -10,7 +10,7 @@ This competition concluded on Jan 15, 2023.
 
 ******************************************************************************************
 
-Competition description 
+Competition description
 https://app.datacamp.com/learn/competitions/city-tree-species
 
 Competition entries
@@ -36,4 +36,5 @@ What ten tree species would you recommend the city plant in the future?
 
 Acknowledgements
 
-Tree census and neighborhood information from the City of New York NYC Open Data https://opendata.cityofnewyork.us/data
+Tree census and neighborhood information from the City of New York NYC Open Data 
+https://opendata.cityofnewyork.us/data
