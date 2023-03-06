@@ -1,11 +1,25 @@
 # Will Ents Survive in NY? 
 
-Award winning submission to DataCamp competition. 
+Award winning submission to DataCamp EdTech competition. 
 
 2nd place | Silver medal 
 1056+ participants
 
 This competition concluded on Jan 15, 2023.
+
+
+******************************************************************************************
+
+Competition description 
+https://app.datacamp.com/learn/competitions/city-tree-species
+
+Competition entries
+https://app.datacamp.com/learn/competitions/city-tree-species?activeTab=competition-entries
+
+This notebooks at DataCamp
+https://app.datacamp.com/workspace/w/cfd4fd01-4f20-4be0-a635-05356eeeefc3
+
+******************************************************************************************
 
 Background
 
