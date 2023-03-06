@@ -1,7 +1,12 @@
 # Ents-in-NY
 Will Ents Survive in NY? 
 
-Award winning submission to DataCamp competition. 2nd place 
+Award winning submission to DataCamp competition. 
+
+2nd place | Silver medal 
+1056+ participants
+
+This competition concluded on Jan 15, 2023.
 
 Background
 
